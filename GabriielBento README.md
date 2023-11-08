@@ -1,16 +1,16 @@
-          ![Banner do Readme](https://github.com/AninhaPardini/images-for-github/blob/main/banner%20readme.png?raw=true)
-          [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-luiza-pardini-a55746214/)
-          [![Discord]( https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yhMg3qVV)
-          [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.discord.com/in/aninhapardini/)
-          [![Gmail](https://img.shields.io/badge/aninhapardini.contato@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](aninhapardini.contato@gmail.com)
-          [![Medium Badge](https://img.shields.io/badge/-@aninhapardini.contato-03a57a?style=for-the-badge&labelColor=black&logo=Medium&link=https://medium.com/@natansl/)](https://medium.com/@aninhapardini.contato)
-----
-
-<p align = "justify">Fullstack Developer, Coffee lover, Javascript and UX/UI fan, Performance curious, @angular studant. Currently in love with Angular and Nextjs Programming.</p>
-
-I currently work at Warlocks Tech [WARLOCKS](https://warlocks.tech/)
-
-I'm learning at the moment **Angular, ReactJS, Java and Database**
+                    ![Banner do Readme](https://github.com/AninhaPardini/images-for-github/blob/main/banner%20readme.png?raw=true)
+                    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-luiza-pardini-a55746214/)
+                    [![Discord]( https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yhMg3qVV)
+                    [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.discord.com/in/aninhapardini/)
+                    [![Gmail](https://img.shields.io/badge/aninhapardini.contato@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](aninhapardini.contato@gmail.com)
+                    [![Medium Badge](https://img.shields.io/badge/-@aninhapardini.contato-03a57a?style=for-the-badge&labelColor=black&logo=Medium&link=https://medium.com/@natansl/)](https://medium.com/@aninhapardini.contato)
+          ----
+          
+          <p align = "justify">Fullstack Developer, Coffee lover, Javascript and UX/UI fan, Performance curious, @angular studant. Currently in love with Angular and Nextjs Programming.</p>
+          
+          I currently work at Warlocks Tech [WARLOCKS](https://warlocks.tech/)
+          
+          I'm learning at the moment **Angular, ReactJS, Java and Database**
 
 ### ⭐ Soft skills
 
