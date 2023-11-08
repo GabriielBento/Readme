@@ -1,9 +1,9 @@
-    ![Banner do Readme](https://github.com/AninhaPardini/images-for-github/blob/main/banner%20readme.png?raw=true)
-    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-luiza-pardini-a55746214/)
-    [![Discord]( https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yhMg3qVV)
-    [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.discord.com/in/aninhapardini/)
-    [![Gmail](https://img.shields.io/badge/aninhapardini.contato@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](aninhapardini.contato@gmail.com)
-    [![Medium Badge](https://img.shields.io/badge/-@aninhapardini.contato-03a57a?style=for-the-badge&labelColor=black&logo=Medium&link=https://medium.com/@natansl/)](https://medium.com/@aninhapardini.contato)
+![Banner do Readme](https://github.com/AninhaPardini/images-for-github/blob/main/banner%20readme.png?raw=true)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-luiza-pardini-a55746214/)
+[![Discord]( https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yhMg3qVV)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.discord.com/in/aninhapardini/)
+[![Gmail](https://img.shields.io/badge/aninhapardini.contato@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](aninhapardini.contato@gmail.com)
+[![Medium Badge](https://img.shields.io/badge/-@aninhapardini.contato-03a57a?style=for-the-badge&labelColor=black&logo=Medium&link=https://medium.com/@natansl/)](https://medium.com/@aninhapardini.contato)
 ----
 
 <p align = "justify">Fullstack Developer, Coffee lover, Javascript and UX/UI fan, Performance curious, @angular studant. Currently in love with Angular and Nextjs Programming.</p>
@@ -33,8 +33,8 @@ I'm learning at the moment **Angular, ReactJS, Java and Database**
 
 ## ⚡ Github stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yXesus&theme=transparent&bg_color=0001&border_color=FFF&show_icons=true&icon_color=0000FF&title_color=FD7999&text_color=FFF)
-![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yXesus&layout=compact&bg_color=0001&border_color=0000FF&title_color=FD7999&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AninhaPardini&theme=transparent&bg_color=0001&border_color=FFF&show_icons=true&icon_color=FD7999&title_color=FD7999&text_color=FFF)
+![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AninhaPardini&layout=compact&bg_color=0001&border_color=FFF&title_color=FD7999&text_color=FFF)
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=AninhaPardini&theme=transparent&card_width=430&currStreakNum=FD7999&stroke=FD7999&fire=FD7999&sideNums=FD7999&ring=FD7999&currStreakLabel=FD7999&dates=EBCBDF&sideLabels=FD7999)](https://git.io/streak-stats) -->
 
 ## 💻 All languages and tools
@@ -54,3 +54,4 @@ Among my self-taught studies within Youtube, immersions of schools such as Alura
 ![Git](https://img.shields.io/badge/Git-000?style=flat&logo=git)
 ![Linux](https://img.shields.io/badge/Linux-000?style=flat&logo=linux)
 ![Docker](https://img.shields.io/badge/Docker-000?style=flat&logo=docker)
+
