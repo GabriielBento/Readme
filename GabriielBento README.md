@@ -6,12 +6,6 @@
   [![Medium Badge](https://img.shields.io/badge/-@aninhapardini.contato-03a57a?style=for-the-badge&labelColor=black&logo=Medium&link=https://medium.com/@natansl/)](https://medium.com/@aninhapardini.contato)
 ----
 
-<p align = "justify">Fullstack Developer, Coffee lover, Javascript and UX/UI fan, Performance curious, @angular studant. Currently in love with Angular and Nextjs Programming.</p>
-
-I currently work at Warlocks Tech [WARLOCKS](https://warlocks.tech/)
-
-I'm learning at the moment **Angular, ReactJS, Java and Database**
-
 ### ⭐ Soft skills
 
 |    Soft skills    |        Liderança          |
